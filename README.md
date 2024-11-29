@@ -4,7 +4,7 @@ Repositório destinado aos exercícios do curso Analista de Dados da EBAC
 
 Conteúdo: Python | Análise de Dados | Análise de dados para inteligência de negócios | SQL | Computação em nuvem e Big Data
 
-<h1>Python</h1>
+<h1>Python Básico</h1>
 
 Módulo 01 : Variáveis ​​e tipos de dados
 
@@ -13,6 +13,8 @@ Módulo 02: Estrutura de dados
 Módulo 03: Fluxo condicional e reprodução
 
 Módulo 04: Arquivos e funções
+
+<h1>Python Intermediário</h1>
 
 Módulo 05: Programação funcional
 
